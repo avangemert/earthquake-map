@@ -1,0 +1,3 @@
+# leaflet
+
+Used Leaflet and GeoJSON data to dynamically plot earthquake information.
